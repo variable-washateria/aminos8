@@ -20,7 +20,7 @@ from kivy.base import runTouchApp
 
 ###############################
 import matplotlib
-matplotlib._png = None
+#matplotlib._png = None edit 5/5 7:17 AM
 
 from kivy.garden.matplotlib.backend_kivyagg import FigureCanvasKivyAgg
 import matplotlib.pyplot as plt
